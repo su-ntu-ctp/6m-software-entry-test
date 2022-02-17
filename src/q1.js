@@ -1,17 +1,18 @@
 /*
     Task 1
-    - return the value of x plus y to the function.
-    - x and y must be numberic.
+    - Create a function that would swap the value of x and y using only x and y as variables.
+    - x and y must be numeric.
     - return -1 if x and y is not numeric.
+    - print the swapped values in the console
 
     Task 2
-    - invoke the function "sum"
+    - invoke the function "swap"
 */
 
-function sum(x, y){
+function swap(x, y){
     // Task 1: Add code here
 }
 
 // Task 2: Add code here
 
-module.exports = sum;
+module.exports = swap;
