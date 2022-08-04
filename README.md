@@ -18,22 +18,19 @@ Click on the green button with `Code` and choose `Download ZIP`. The entire asse
 
 ## References
 
-These references should take you not more than 30 minutes to complete. You are given two choices:
+These references should take you not more than 30 minutes to complete.
 
-1. Readings with Code Practice
+Reference with code practice:
 
-    - [Variables](https://www.w3schools.com/js/js_variables.asp) (1 minute)
-    - [Data Types](https://www.w3schools.com/js/js_datatypes.asp) (1 minute)
-    - [Operators](https://www.w3schools.com/js/js_operators.asp) (3 minutes)
-    - [Conditions](https://www.w3schools.com/js/js_if_else.asp) (3 minutes)
-    - [Arrays](https://www.w3schools.com/js/js_arrays.asp) (5 minutes)
-    - [For Loop](https://www.w3schools.com/js/js_loop_for.asp) (5 minutes)
-    - [Objects](https://www.w3schools.com/js/js_objects.asp) (5 minutes)
-    - [Classes](https://www.w3schools.com/js/js_classes.asp) (5 minutes)
+- [Variables](https://www.w3schools.com/js/js_variables.asp) (1 minute)
+- [Data Types](https://www.w3schools.com/js/js_datatypes.asp) (1 minute)
+- [Operators](https://www.w3schools.com/js/js_operators.asp) (3 minutes)
+- [Conditions](https://www.w3schools.com/js/js_if_else.asp) (3 minutes)
+- [Arrays](https://www.w3schools.com/js/js_arrays.asp) (5 minutes)
+- [For Loop](https://www.w3schools.com/js/js_loop_for.asp) (5 minutes)
+- [Objects](https://www.w3schools.com/js/js_objects.asp) (5 minutes)
+- [Classes](https://www.w3schools.com/js/js_classes.asp) (5 minutes)
 
-2. Code along with Instructor over a Video
-
-    - Video Link [here](./assets/unknown.webm)
 
 ## Problems
 
