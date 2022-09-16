@@ -44,4 +44,5 @@ Please attempt the solve the problems described in the following `.js` file:
 
 ## Submission
 
-Add into on how to submit here.
+- You could submit by zipping up the project folder, or
+- Submit a github url if you have knowledge of using github.
