@@ -44,5 +44,7 @@ Please attempt the solve the problems described in the following `.js` file:
 
 ## Submission
 
-- You could submit by zipping up the project folder, or
+- You could submit by zipping up the project folder, place it on a public google drive, and submit the URL to NTU Survey Portal, or
 - Submit a github url if you have knowledge of using github.
+
+> Should you face any difficulties, please contact your program administrator.
