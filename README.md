@@ -31,6 +31,11 @@ Reference with code practice:
 - [Objects](https://www.w3schools.com/js/js_objects.asp) (5 minutes)
 - [Classes](https://www.w3schools.com/js/js_classes.asp) (5 minutes)
 
+These videos can be helpful in learning JavaScript
+
+- [JavaScript with Mosh](https://youtu.be/W6NZfCO5SIk)
+- [JavaScript - Travesty Media](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+
 
 ## Problems
 
