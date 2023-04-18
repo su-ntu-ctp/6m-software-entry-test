@@ -30,6 +30,7 @@ Reference with code practice:
 - [For Loop](https://www.w3schools.com/js/js_loop_for.asp) (5 minutes)
 - [Objects](https://www.w3schools.com/js/js_objects.asp) (5 minutes)
 - [Classes](https://www.w3schools.com/js/js_classes.asp) (5 minutes)
+- [Modules](https://www.w3schools.com/js/js_modules.asp) (5 minutes)
 
 These videos can be helpful in learning JavaScript
 
