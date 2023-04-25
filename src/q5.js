@@ -1,7 +1,7 @@
 
 /*
     Task 1:
-    - Import the file `external.js`.
+    - Link the file `external.js` to this file.
     - Destructure the imported function from `external.js` to display the string
       "I am printing something" on console.log.
 */
