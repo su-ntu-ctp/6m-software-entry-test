@@ -2,7 +2,7 @@
     Task 1: 
     - Implement a Child class that extends the Parent.
     - Add a constructor to the Child class can calls super().
-    - Implement a new function addNewAbilities(newAbility) where the new ability will be added to the Parent's #abilities array.     
+    - Implement a new function addNewAbilities(newAbility) in the Child class where the new ability will be added to the Parent's #abilities array.     
 */
 class Parent{
     abilities = []
