@@ -1,5 +1,5 @@
-function printSomething(){
-    console.log("I am printing something.");
+const print = () => {
+    return "Hello World";
 }
 
-module.exports.print = printSomething;
+export default print;
