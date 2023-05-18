@@ -11,16 +11,22 @@
 
 
 // Task 1: Add code here
-
+const PatientNames = [];
+var Count = 0;
 function addPatient(patientName){
     // Task 2: Add code here
+    PatientNames[Count] = patientName;
 }
 
 // Task 3: Add code here
-
+function listPatient(){
+  document.write(PatientNames);  
+}
 
 addPatient("John");
+Count++;
 addPatient("Mary");
+Count++;
 addPatient("Mark");
 
 listPatient(); // This should list ["John", "Mary", "Mark"]
