@@ -6,6 +6,15 @@
 */
 
 // Task 1: Add code here
-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Q5 Output</title>
+    <script src="external.js"></script>
+</head>
+<body>
+    <div id="test"></div>
+</body>
+</html>
 // Do not change the code below
 document.querySelector("#test").innerHTML = print();
