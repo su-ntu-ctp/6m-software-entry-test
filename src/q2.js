@@ -29,4 +29,4 @@ addPatient("Mary");
 Count++;
 addPatient("Mark");
 
-listPatient(); // This should list ["John", "Mary", "Mark"]
+
