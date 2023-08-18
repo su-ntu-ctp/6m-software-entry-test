@@ -7,9 +7,12 @@
 */
 
 const dog = {
-    petName:"Bobby"
-}
+  petName: "Bobby",
+};
 
 // Task 1: Add code here
-
+dog["breed"] = "Poodle";
 // Task 2: Add code here
+for (const property in dog) {
+  console.log(`${property}:${dog[property]}`);
+}

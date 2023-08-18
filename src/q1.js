@@ -9,10 +9,21 @@
     - invoke the function "swap"
 */
 
-function swap(x, y){
+swap = function (x, y) {
+  if (isNaN(x) || isNaN(y) == true) {
+    return -1;
+  } else {
     // Task 1: Add code here
-}
+    swapPosition = [y, x];
+    return swapPosition;
+  }
+};
 
 // Task 2: Add code here
+swap(100, 800);
+
+swap("Tiger", 800);
+
+swap(100, "Elephant");
 
 module.exports = swap;
