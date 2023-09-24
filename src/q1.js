@@ -10,9 +10,25 @@
 */
 
 function swap(x, y){
-    // Task 1: Add code here
+    if (typeof x !== 'number' || typeof y !== 'number') {
+        console.log("X = ", x ,"and Y =", y ," must be both numeric.");
+		return -1;
+	}
+	x = x+y;
+	y = x-y;
+	x = x-y;
+	
+	 console.log("Swapped values: x =", x, "y =", y);
+
+     return [x, y];
 }
 
-// Task 2: Add code here
+const result = swap(100,"A");
+
+if (result !== -1) {
+    console.log("Swap successful, result: ", result);
+} else {
+    console.log("One or both values are not numeric.");
+}
 
 module.exports = swap;
