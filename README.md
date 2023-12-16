@@ -40,13 +40,14 @@ These videos can be helpful in learning JavaScript
 
 ## Problems
 
-Please attempt the solve the problems described in the following `.js` file:
+Please attempt the solve the problems described in the following `.js` and `.html` files:
 
 - [Question 1](./src/q1.js)
 - [Question 2](./src/q2.js)
 - [Question 3](./src/q3.js)
 - [Question 4](./src/q4.js)
 - [Question 5](./src/q5.js)
+- [Question 6](./src/q6.html)
 
 ## Submission
 
