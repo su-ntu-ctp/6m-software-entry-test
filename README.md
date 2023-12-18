@@ -31,6 +31,8 @@ Reference with code practice:
 - [Objects](https://www.w3schools.com/js/js_objects.asp) (5 minutes)
 - [Classes](https://www.w3schools.com/js/js_classes.asp) (5 minutes)
 - [NodeJS Modules](https://www.w3schools.com/nodejs/nodejs_modules.asp) (5 minutes)
+- [Pass-by-Reference(Geeks for Geeks)] (https://www.geeksforgeeks.org/pass-by-value-and-pass-by-reference-in-javascript/) (5 minutes)
+- [Pass-by-Reference vs Pass-by-value] (https://medium.com/front-end-weekly/understanding-pass-by-value-and-pass-by-reference-in-javascript-8e2a0806b175) (5 minutes)
 
 These videos can be helpful in learning JavaScript
 
