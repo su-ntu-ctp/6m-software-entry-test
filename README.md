@@ -48,7 +48,7 @@ Please attempt the solve the problems described in the following `.js` and `.htm
 - [Question 2](./src/q2.js)
 - [Question 3](./src/q3.js)
 - [Question 4](./src/q4.js)
-- [Question 5](./src/q5.js)
+- [Question 5](./src/q5.js) (Along with external.js and q5.html)
 - [Question 6](./src/q6.html)
 
 ## Submission
