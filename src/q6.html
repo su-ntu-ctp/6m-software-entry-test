@@ -6,8 +6,17 @@
     <title>Simple Addition Calculator</title>    
     <script type="text/javascript">
         function add(){
-            const num1 = document.querySelector("#num1").value;
-            const num2 = document.querySelector("#num2").value;
+            const num1 = Number(document.querySelector("#num1").value);
+            const num2 = Number(document.querySelector("#num2").value);
+
+            if ( typeof isNaN(num1) || isNaN(num2) ){
+                alert("Please enter a valid number for each input");
+                return;
+            }
+             if ( num1 < 0 || num2 < 0 ){
+                alert("Numeric value must not be negative");
+                return;
+            }
             const answer = num1 + num2;
             document.querySelector("#answer").innerText = answer;
         }
@@ -32,7 +41,7 @@
 
     -->
     <form>
-        <input type="number" placeholder="Number 1" id="num1" /> + <input type="number" placeholder="Number 2" id="num2" /> = <span id="answer"></span>
+        <input placeholder="Number 1" id="num1" /> + <input placeholder="Number 2" id="num2" /> = <span id="answer"></span>
         <br />
         <input type="button" value="Submit" onclick="add()" /> 
     </form>
