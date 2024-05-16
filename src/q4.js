@@ -5,7 +5,7 @@
 */
 
 //Modify this function
-function print(){
+function print(number){
 }
 
 //To test
