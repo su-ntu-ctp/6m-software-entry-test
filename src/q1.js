@@ -16,5 +16,3 @@ function swap(x, y){
 }
 
 // Task 2: Add code here
-
-module.exports = swap;

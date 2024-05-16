@@ -28,7 +28,6 @@ Reference with code practice:
 - [Conditions](https://www.w3schools.com/js/js_if_else.asp) (3 minutes)
 - [Arrays](https://www.w3schools.com/js/js_arrays.asp) (5 minutes)
 - [For Loop](https://www.w3schools.com/js/js_loop_for.asp) (5 minutes)
-- [Objects](https://www.w3schools.com/js/js_objects.asp) (5 minutes)
 - [Classes](https://www.w3schools.com/js/js_classes.asp) (5 minutes)
 - [NodeJS Modules](https://www.w3schools.com/nodejs/nodejs_modules.asp) (5 minutes)
 - [Pass-by-Reference(Geeks for Geeks)](https://www.geeksforgeeks.org/pass-by-value-and-pass-by-reference-in-javascript/) (5 minutes)
@@ -49,10 +48,8 @@ Please attempt the solve the problems described in the following `.js` and `.htm
 - [Question 1](./src/q1.js)
 - [Question 2](./src/q2.js)
 - [Question 3](./src/q3.js)
-- [Question 4](./src/q4.js)
-- [Question 5](./src/q5.js) (Along with external.js and q5.html)
-- [Question 6](./src/q6.html)
-- [Question 7](./src/q7.js)
+- [Question 4](./src/q4.js) (Along with external.js and q4.html)
+- [Question 5](./src/q5.js)
 
 ## Submission
 
