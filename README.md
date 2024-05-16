@@ -28,7 +28,6 @@ Reference with code practice:
 - [Conditions](https://www.w3schools.com/js/js_if_else.asp) (3 minutes)
 - [Arrays](https://www.w3schools.com/js/js_arrays.asp) (5 minutes)
 - [For Loop](https://www.w3schools.com/js/js_loop_for.asp) (5 minutes)
-- [Objects](https://www.w3schools.com/js/js_objects.asp) (5 minutes)
 - [Classes](https://www.w3schools.com/js/js_classes.asp) (5 minutes)
 - [NodeJS Modules](https://www.w3schools.com/nodejs/nodejs_modules.asp) (5 minutes)
 - [Pass-by-Reference(Geeks for Geeks)](https://www.geeksforgeeks.org/pass-by-value-and-pass-by-reference-in-javascript/) (5 minutes)
