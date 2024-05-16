@@ -48,10 +48,8 @@ Please attempt the solve the problems described in the following `.js` and `.htm
 - [Question 1](./src/q1.js)
 - [Question 2](./src/q2.js)
 - [Question 3](./src/q3.js)
-- [Question 4](./src/q4.js)
-- [Question 5](./src/q5.js) (Along with external.js and q5.html)
-- [Question 6](./src/q6.html)
-- [Question 7](./src/q7.js)
+- [Question 4](./src/q4.js) (Along with external.js and q4.html)
+- [Question 5](./src/q5.js)
 
 ## Submission
 
