@@ -1,30 +1,25 @@
 /*
     Task 1: 
-    - Implement a Child class that extends the Parent.
-    - Add a constructor to the Child class can calls super().
-    - Implement a new function addNewAbilities(newAbility) in the Child class where the new ability will be added to the Parent's #abilities array.     
+    - Modify the print function below to use a loop to print all the numbers from 1 to the number specified 
+    and determine if that number is divisible by 3 only, by 5 only, by both, by neither.  
 */
-class Parent{
-    abilities = []
 
-    constructor(){
-        this.abilities.push("Parenting");
-        this.abilities.push("Role modeling");
-    }
-
-    showAbilities(){
-        console.log("These are the abilities:")
-        for(const a of this.abilities){
-            console.log(a);
-        }
-    }
+//Modify this function
+function print(){
 }
 
-const p = new Parent();
-p.showAbilities(); // Observe that this function prints "Parenting" and "Role modeling".
+//To test
+print(15);
+/*
+Expected Output:
+1 - neither
+2 - neither
+3 - by 3 only
+...
+5 - by 5 only
+6 - by 3 only
+...
+15 - by both 3 and 5
+*/
 
-// Task 1: Add code here
-
-const c = new Child();
-c.addNewAbility("Dancing");
-c.showAbilities(); // This function should print "Parenting", "Role modeling" and "Dancing".
+print(30);
