@@ -17,5 +17,5 @@ Task 1: Modify this function to use object destructuring for the inputs to displ
 const introduce = () => {
 }
 
-greet(person);
+introduce(person);
 //The output should be "Hello, my name is Jane and I love swimming!"
